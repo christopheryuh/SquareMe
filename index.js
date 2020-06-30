@@ -1,4 +1,4 @@
-button = document.getElementById('button');
+
 oldin = "";
 function clicked(){
   console.log('BUTTON HAS BEEN CLICKED');
