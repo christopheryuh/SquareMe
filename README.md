@@ -1,0 +1,3 @@
+# SquareMe
+
+SquareMe is a basic website for squaring numbers. This has been sort of an experiment to help me further my skills in web development.
